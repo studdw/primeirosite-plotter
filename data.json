@@ -1,0 +1,1147 @@
+[
+  {
+    "nome": "HP DesignJet T2600 PostScript MFP",
+    "funcionalidade": "Impressora multifuncional de alto desempenho para CAD e GIS. Permite impressão, cópia e digitalização de documentos técnicos de até 36 polegadas.",
+    "cartuchos_compativeis": [
+      "HP 730 Black",
+      "HP 730 Cyan",
+      "HP 730 Magenta",
+      "HP 730 Yellow",
+      "HP 730 Gray"
+    ],
+    "cabeca_impressao": "HP 729 DesignJet Printhead",
+    "data_lancamento": "2019",
+    "link": "https://www.hp.com/us-en/products/large-format-printers/designjet-t2600-series.html"
+  },
+  {
+    "nome": "Canon imagePROGRAF PRO-4100",
+    "funcionalidade": "Plotter profissional de 12 cores voltada para fotografia, fine art e provas de impressão, com largura máxima de 44 polegadas. Utiliza tintas LUCIA PRO.",
+    "cartuchos_compativeis": [
+      "PFI-1000",
+      "PFI-3100",
+      "PFI-7100 (Matte Black, Photo Black, Cyan, Magenta, Yellow, etc.)"
+    ],
+    "cabeca_impressao": "PF-10 (integrada)",
+    "data_lancamento": "2020",
+    "link": "https://www.usa.canon.com/internet/portal/us/home/products/details/printers/large-format-inkjet/pro-series/imageprograf-pro-4100"
+  },
+  {
+    "nome": "Epson SureColor P9570",
+    "funcionalidade": "Impressora de 12 cores de 44 polegadas para fotografia e artes gráficas. Possui conjunto de tintas UltraChrome PRO12 e tecnologia PrecisionCore MicroTFP.",
+    "cartuchos_compativeis": [
+      "T47A100 (Photo Black)",
+      "T47B200 (Cyan)",
+      "T47B800 (Matte Black)",
+      "T47B900 (Violet)"
+    ],
+    "cabeca_impressao": "PrecisionCore MicroTFP",
+    "data_lancamento": "2019",
+    "link": "https://epson.com/For-Work/Printers/Large-Format/SureColor-P9570-44-Inch-Printer/p/C11CH08201"
+  },
+  {
+    "nome": "HP DesignJet Z9+ PostScript",
+    "funcionalidade": "Plotter gráfica de 8 cores para profissionais de fotografia e impressão. Oferece alta qualidade de cor e possui espectrofotômetro embutido. Largura máxima de 44 polegadas.",
+    "cartuchos_compativeis": [
+      "HP 746 Photo Black",
+      "HP 746 Chromatic Red",
+      "HP 746 Gloss Enhancer",
+      "HP 746 Yellow"
+    ],
+    "cabeca_impressao": "Cabeças de impressão HP de longa duração (integradas em kits)",
+    "data_lancamento": "2018",
+    "link": "https://www.hp.com/us-en/products/large-format-printers/designjet-z9-plus-series.html"
+  },
+  {
+    "nome": "Canon imagePROGRAF TX-5400",
+    "funcionalidade": "Impressora multifuncional de alta produtividade para CAD, GIS e posters. Utiliza tintas pigmentadas de 5 cores e suporta rolos duplos. Largura de 44 polegadas.",
+    "cartuchos_compativeis": [
+      "PFI-340",
+      "PFI-740 (MBK, BK, C, M, Y)"
+    ],
+    "cabeca_impressao": "PF-06",
+    "data_lancamento": "2020",
+    "link": "https://www.usa.canon.com/internet/portal/us/home/products/details/printers/large-format-inkjet/tx-series/imageprograf-tx-5400"
+  },
+  {
+    "nome": "Epson SureColor T5470M",
+    "funcionalidade": "Plotter multifuncional compacta (36 polegadas) para documentos técnicos, CAD e GIS, ideal para ambientes de escritório. Inclui scanner integrado.",
+    "cartuchos_compativeis": [
+      "T41R120 (Black)",
+      "T41R220 (Cyan)",
+      "T41R320 (Magenta)",
+      "T41R420 (Yellow)"
+    ],
+    "cabeca_impressao": "PrecisionCore MicroTFP",
+    "data_lancamento": "2019",
+    "link": "https://epson.com/For-Work/Printers/Large-Format/SureColor-T5470M-36-Inch-Wireless-Technical-Printer-with-Integrated-Scanner/p/C11CG30201"
+  },
+  {
+    "nome": "Mutoh ValueJet 1638X",
+    "funcionalidade": "Impressora solvente ecológica de 64 polegadas para sinalização, banners e gráficos veiculares. Oferece alta velocidade e utiliza tintas Eco-Ultra.",
+    "cartuchos_compativeis": [
+      "Eco-Ultra Ink 220ml/440ml (CMYK)"
+    ],
+    "cabeca_impressao": "Dual Staggered Piezo Print Heads",
+    "data_lancamento": "2014",
+    "link": "https://www.mutoh.com/product/valuejet-1638x/"
+  },
+  {
+    "nome": "Mimaki JV300-160 Plus",
+    "funcionalidade": "Plotter de impressão solvente de 63 polegadas de alta velocidade, ideal para produção de gráficos de sinalização duráveis, pôsteres e adesivos. Suporta tintas BS4.",
+    "cartuchos_compativeis": [
+      "BS4 Ink (C, M, Y, K, Lc, Lm, Or, Lk)"
+    ],
+    "cabeca_impressao": "Piezo Head (Múltiplas cabeças)",
+    "data_lancamento": "2019",
+    "link": "https://www.mimaki.com/product/inkjet/j-solvent/jv300-160plus/"
+  },
+  {
+    "nome": "Roland DG TrueVIS VG2-640",
+    "funcionalidade": "Impressora/cortadora (Print & Cut) de 64 polegadas para sinalização e vestuário. Usa tintas TR2 e possui certificação 3M MCS e Avery Dennison ICS.",
+    "cartuchos_compativeis": [
+      "TR2 Ink (C, M, Y, K, Lc, Lm, Or, Gr, W)"
+    ],
+    "cabeca_impressao": "FlexFire Print Heads",
+    "data_lancamento": "2019",
+    "link": "https://www.rolanddga.com/products/printers/truevis-vg2-series-printer-cutters"
+  },
+  {
+    "nome": "Canon imagePROGRAF TA-20",
+    "funcionalidade": "Plotter compacta de entrada (24 polegadas) para CAD/GIS e educação, ideal para pequenos escritórios. Usa tintas pigmentadas de 5 cores e possui baixo ruído.",
+    "cartuchos_compativeis": [
+      "PFI-030 (MBK, BK, C, M, Y)"
+    ],
+    "cabeca_impressao": "PF-05",
+    "data_lancamento": "2019",
+    "link": "https://www.usa.canon.com/internet/portal/us/home/products/details/printers/large-format-inkjet/ta-series/imageprograf-ta-20"
+  },
+  {
+    "nome": "Epson SureColor T3170M",
+    "funcionalidade": "Impressora desktop e multifuncional (24 polegadas) para documentos técnicos, ideal para trabalho remoto e pequenos espaços. Inclui scanner de 600 dpi.",
+    "cartuchos_compativeis": [
+      "T40V (Black)",
+      "T40V (C, M, Y)"
+    ],
+    "cabeca_impressao": "PrecisionCore MicroTFP",
+    "data_lancamento": "2021",
+    "link": "https://epson.com/For-Work/Printers/Large-Format/SureColor-T3170M-24-Inch-Wireless-Printer-Scanner/p/C11CJ43201"
+  },
+  {
+    "nome": "HP DesignJet XL 3600 MFP",
+    "funcionalidade": "Impressora multifuncional robusta de alta velocidade (36 polegadas) projetada para ambientes de trabalho em grupo e produção de grandes volumes de CAD/GIS.",
+    "cartuchos_compativeis": [
+      "HP 766 (Matte Black, Cyan, Magenta, Yellow)"
+    ],
+    "cabeca_impressao": "HP 766 DesignJet Printhead",
+    "data_lancamento": "2020",
+    "link": "https://www.hp.com/us-en/products/large-format-printers/designjet-xl-3600-mfp-series.html"
+  },
+  {
+    "nome": "Canon imagePROGRAF TM-305",
+    "funcionalidade": "Impressora silenciosa de 36 polegadas para CAD, GIS e pôsteres em ambientes de escritório. Utiliza tinta pigmentada completa (Full Pigment) para maior durabilidade.",
+    "cartuchos_compativeis": [
+      "PFI-120",
+      "PFI-320 (MBK, BK, C, M, Y)"
+    ],
+    "cabeca_impressao": "PF-06",
+    "data_lancamento": "2018",
+    "link": "https://www.usa.canon.com/internet/portal/us/home/products/details/printers/large-format-inkjet/tm-series/imageprograf-tm-305"
+  },
+  {
+    "nome": "Epson SureColor S80600L",
+    "funcionalidade": "Plotter de sinalização eco-solvente de 64 polegadas com sistema de tinta de alta capacidade (1,5L por cor), projetada para produção contínua e alto volume.",
+    "cartuchos_compativeis": [
+      "SC-S80600L Tinta (CMYK, Lc, Lm, Red, Orange, White, Metallic Silver)"
+    ],
+    "cabeca_impressao": "Dual PrecisionCore TFP",
+    "data_lancamento": "2019",
+    "link": "https://epson.com/For-Work/Printers/Large-Format/SureColor-S80600L-Printer/p/C11CF67201"
+  },
+  {
+    "nome": "HP Latex R1000 Plus",
+    "funcionalidade": "Impressora híbrida (rígidos e flexíveis) de 64 polegadas com tecnologia HP Latex, que usa tinta branca. Ideal para sinalização, embalagens e decoração.",
+    "cartuchos_compativeis": [
+      "HP Latex 882 (Magenta, Yellow, Black, Cyan, White, Optimizer)"
+    ],
+    "cabeca_impressao": "HP 882 Latex Printheads",
+    "data_lancamento": "2019",
+    "link": "https://www.hp.com/us-en/products/large-format-printers/latex-r1000-plus-printer.html"
+  },
+  {
+    "nome": "Mimaki UJF-7151 plus II",
+    "funcionalidade": "Impressora plana (flatbed) UV LED para objetos e materiais rígidos, utilizada para personalização, brindes e prototipagem. Área máxima de impressão A2.",
+    "cartuchos_compativeis": [
+      "LUS-120 UV Ink (CMYK, White, Clear, Primer)"
+    ],
+    "cabeca_impressao": "Piezoelectric Heads",
+    "data_lancamento": "2021",
+    "link": "https://www.mimaki.com/product/inkjet/u-uv/ujf-7151plus2/"
+  },
+  {
+    "nome": "Roland VersaUV LEF-200",
+    "funcionalidade": "Impressora de mesa UV para impressão em objetos 3D, personalização de itens promocionais e eletrônicos, utilizando tinta branca e verniz (gloss).",
+    "cartuchos_compativeis": [
+      "ECO-UV Ink (CMYK, White, Gloss, Primer)"
+    ],
+    "cabeca_impressao": "Roland DG Piezoelectric Head",
+    "data_lancamento": "2015",
+    "link": "https://www.rolanddga.com/products/uv-printers/versa-uv-lef-series-printers"
+  },
+  {
+    "nome": "HP DesignJet T830 MFP",
+    "funcionalidade": "Plotter multifuncional robusta de 36 polegadas, com scanner integrado e proteção contra poeira e danos, ideal para uso em canteiros de obras ou ambientes agressivos.",
+    "cartuchos_compativeis": [
+      "HP 728 (Black, Cyan, Magenta, Yellow)"
+    ],
+    "cabeca_impressao": "HP 729 DesignJet Printhead",
+    "data_lancamento": "2016",
+    "link": "https://www.hp.com/us-en/products/large-format-printers/designjet-t830-mfp-series.html"
+  },
+  {
+    "nome": "Canon imagePROGRAF GP-2000",
+    "funcionalidade": "Plotter de 10 cores (24 polegadas) com inovações como Tinta Fluorescente Rosa (Fluorescent Pink), focada em publicidade, posters vibrantes e POP.",
+    "cartuchos_compativeis": [
+      "PFI-1020",
+      "PFI-3020 (R, O, G, B, Pk, FP)"
+    ],
+    "cabeca_impressao": "PF-10 (integrada)",
+    "data_lancamento": "2021",
+    "link": "https://www.usa.canon.com/internet/portal/us/home/products/details/printers/large-format-inkjet/gp-series/imageprograf-gp-2000"
+  },
+  {
+    "nome": "Epson SureColor F6370",
+    "funcionalidade": "Sistema de sublimação de tinta (dye-sublimation) de 44 polegadas, usado para impressão em tecidos, vestuário e brindes promocionais. Usa sistema de tanque recarregável.",
+    "cartuchos_compativeis": [
+      "Epson UltraChrome DS Ink (Black, Cyan, Magenta, Yellow)"
+    ],
+    "cabeca_impressao": "PrecisionCore TFP",
+    "data_lancamento": "2019",
+    "link": "https://epson.com/For-Work/Printers/Large-Format/SureColor-F6370-44-Inch-Dye-Sublimation-Printer/p/C11CG64201"
+  },
+  {
+    "nome": "Mutoh XpertJet 1682SR",
+    "funcionalidade": "Plotter de impressão eco-solvente de 64 polegadas com duplo cabeçote e tecnologia DropMaster, otimizada para sinalização de alta qualidade e durabilidade.",
+    "cartuchos_compativeis": [
+      "MS31 Eco-Solvent Ink (CMYKx2, Lc, Lm)"
+    ],
+    "cabeca_impressao": "Dual Piezo Staggered Heads",
+    "data_lancamento": "2020",
+    "link": "https://www.mutoh.com/product/xpertjet-1682sr/"
+  },
+  {
+    "nome": "HP DesignJet Studio 36-in",
+    "funcionalidade": "Plotter de design moderno e compacto de 36 polegadas para CAD, GIS e arquitetura. Ideal para pequenos estúdios e uso doméstico/híbrido.",
+    "cartuchos_compativeis": [
+      "HP 712 (Black, Cyan, Magenta, Yellow)"
+    ],
+    "cabeca_impressao": "HP 713 DesignJet Printhead",
+    "data_lancamento": "2020",
+    "link": "https://www.hp.com/us-en/products/large-format-printers/designjet-studio-series.html"
+  },
+  {
+    "nome": "Canon imagePROGRAF TZ-30000",
+    "funcionalidade": "Plotter de produção CAD/GIS de altíssima velocidade (36 polegadas), projetada para grandes volumes e fluxo de trabalho contínuo. Possui capacidade de rolo duplo e empilhador integrado.",
+    "cartuchos_compativeis": [
+      "PFI-2100",
+      "PFI-3100",
+      "PFI-7100 (Matte Black, Photo Black, Cyan, Magenta, Yellow)"
+    ],
+    "cabeca_impressao": "PF-06",
+    "data_lancamento": "2022",
+    "link": "https://www.usa.canon.com/internet/portal/us/home/products/details/printers/large-format-inkjet/tz-series/imageprograf-tz-30000"
+  },
+  {
+    "nome": "Epson SureColor P7000 Commercial Edition",
+    "funcionalidade": "Plotter de 24 polegadas de 10 cores, usada para provas de impressão (proofing) de alta precisão e impressão Fine Art. Oferece alta densidade de preto.",
+    "cartuchos_compativeis": [
+      "T800 (Photo Black, Matte Black, Cyan, Magenta, Yellow, Green, Orange, etc.)"
+    ],
+    "cabeca_impressao": "PrecisionCore TFP",
+    "data_lancamento": "2015",
+    "link": "https://epson.com/For-Work/Printers/Large-Format/SureColor-P7000-Commercial-Edition-24-Inch-Printer/p/SCP7000CE"
+  },
+  {
+    "nome": "Roland DG VersaEXPRESS RF-640",
+    "funcionalidade": "Impressora eco-solvente de 64 polegadas focada em velocidade e rentabilidade. Ideal para banners, gráficos de sinalização e envelopamento veicular.",
+    "cartuchos_compativeis": [
+      "ECO-SOL MAX 2 Ink (CMYK)"
+    ],
+    "cabeca_impressao": "Gold Plated Print Head",
+    "data_lancamento": "2014",
+    "link": "https://www.rolanddga.com/products/printers/versaexpress-rf-640"
+  },
+  {
+    "nome": "HP DesignJet T650 36-in",
+    "funcionalidade": "Plotter de entrada/médio volume para CAD, GIS e impressões técnicas, com capacidade de impressão de até 36 polegadas.",
+    "cartuchos_compativeis": [
+      "HP 712 Preto",
+      "HP 712 Ciano",
+      "HP 712 Magenta",
+      "HP 712 Amarelo"
+    ],
+    "cabeca_impressao": "HP 712 DesignJet Printhead",
+    "data_lancamento": "2021",
+    "link": "https://www.hp.com/br/pt/large-format-printers/designjet-t650.html"
+  },
+  {
+    "nome": "Canon imagePROGRAF PRO-2100",
+    "funcionalidade": "Impressora fotográfica e fine art de alta qualidade, 12 cores, para mídias de até 24 polegadas.",
+    "cartuchos_compativeis": [
+      "PFI-1000 PGY",
+      "PFI-1000 PC",
+      "PFI-1000 PM",
+      "PFI-1000 MBK",
+      "PFI-1000 Y",
+      "PFI-1000 R"
+    ],
+    "cabeca_impressao": "PF-10",
+    "data_lancamento": "2020",
+    "link": "https://www.canon.com/imageprograf/pro-2100"
+  },
+  {
+    "nome": "Epson SureColor P8000",
+    "funcionalidade": "Plotter profissional para provas de cor e fotografia de grande formato, 44 polegadas, utilizando tintas UltraChrome HDX de 8 ou 10 cores.",
+    "cartuchos_compativeis": [
+      "T804100",
+      "T804200",
+      "T804300",
+      "T804400",
+      "T804700"
+    ],
+    "cabeca_impressao": "PrecisionCore TFP",
+    "data_lancamento": "2016",
+    "link": "https://epson.com/surecolor-p8000"
+  },
+  {
+    "nome": "HP Latex 365",
+    "funcionalidade": "Impressora de sinalização e display de 64 polegadas. Utiliza tintas HP Latex para alta durabilidade em ambientes internos e externos.",
+    "cartuchos_compativeis": [
+      "HP 831 Ciano Claro",
+      "HP 831 Magenta Claro",
+      "HP 831 Preto",
+      "HP 831 Otimizador"
+    ],
+    "cabeca_impressao": "HP 831 Latex Printheads (integrada)",
+    "data_lancamento": "2016",
+    "link": "https://www.hp.com/br/pt/large-format-printers/latex-365"
+  },
+  {
+    "nome": "Canon imagePROGRAF TM-200",
+    "funcionalidade": "Impressora multiuso silenciosa para escritório, ideal para CAD, GIS e pôsteres de até 24 polegadas. Utiliza tintas pigmentadas de 5 cores.",
+    "cartuchos_compativeis": [
+      "PFI-120 MBK",
+      "PFI-120 C",
+      "PFI-120 M",
+      "PFI-320 Y"
+    ],
+    "cabeca_impressao": "PF-06",
+    "data_lancamento": "2019",
+    "link": "https://www.usa.canon.com/imageprograf/tm-200"
+  },
+  {
+    "nome": "HP DesignJet Z6 44-in",
+    "funcionalidade": "Plotter para gráficos de alta definição e aplicações GIS com fidelidade de cor, 6 cores, com largura de 44 polegadas.",
+    "cartuchos_compativeis": [
+      "HP 746 Ciano",
+      "HP 746 Magenta",
+      "HP 746 Cromo Otimizador",
+      "HP 746 Cinza Fotográfico"
+    ],
+    "cabeca_impressao": "HP 731",
+    "data_lancamento": "2018",
+    "link": "https://www.hp.com/us-en/large-format-printers/designjet-z6.html"
+  },
+  {
+    "nome": "Epson SureColor F570",
+    "funcionalidade": "Impressora compacta de sublimação de tinta de 24 polegadas, ideal para personalização de brindes e produtos rígidos e flexíveis.",
+    "cartuchos_compativeis": [
+      "Garrafa de Tinta Sublimação T49M320 Magenta",
+      "Garrafa de Tinta Sublimação T49M120 Preto"
+    ],
+    "cabeca_impressao": "PrecisionCore MicroTFP",
+    "data_lancamento": "2019",
+    "link": "https://epson.com/surecolor-f570"
+  },
+  {
+    "nome": "Roland DG TrueVIS VF2-640",
+    "funcionalidade": "Impressora de grande formato de 64 polegadas dedicada à produção de sinalização e gráficos de alta qualidade, usando tintas TR2 Eco-solvente, incluindo a cor Verde e Laranja.",
+    "cartuchos_compativeis": [
+      "TR2-CY",
+      "TR2-MG",
+      "TR2-YE",
+      "TR2-GR",
+      "TR2-OR"
+    ],
+    "cabeca_impressao": "FlexFire",
+    "data_lancamento": "2020",
+    "link": "https://www.rolanddg.com/en/products/printers/truevis-vf2-series"
+  },
+  {
+    "nome": "Mimaki CJV150-160",
+    "funcionalidade": "Impressora e cortadora integrada de 64 polegadas, utilizando tintas Eco-solvente, ideal para produção de decalques, rótulos e sinalização.",
+    "cartuchos_compativeis": [
+      "SS21 Ciano",
+      "SS21 Preto",
+      "SS21 Branco",
+      "ES3 Amarelo"
+    ],
+    "cabeca_impressao": "Piezo Integrada",
+    "data_lancamento": "2015",
+    "link": "https://www.mimaki.com/product/inkjet/print-cut/cjv150-series/"
+  },
+  {
+    "nome": "Canon imagePROGRAF TX-4100",
+    "funcionalidade": "Impressora técnica de alto volume e velocidade para CAD/GIS, 44 polegadas, com sistema de alimentação de rolo duplo opcional.",
+    "cartuchos_compativeis": [
+      "PFI-110 C",
+      "PFI-310 M",
+      "PFI-710 BK",
+      "PFI-710 MBK"
+    ],
+    "cabeca_impressao": "PF-06",
+    "data_lancamento": "2020",
+    "link": "https://www.usa.canon.com/imageprograf/tx-4100"
+  },
+  {
+    "nome": "HP DesignJet T1700dr 44-in",
+    "funcionalidade": "Plotter de duplo rolo, segura e profissional, ideal para equipes de CAD/GIS que exigem alta qualidade de linha e renderizações precisas em 44 polegadas.",
+    "cartuchos_compativeis": [
+      "HP 730 Ciano",
+      "HP 730 Cinza",
+      "HP 730 Preto",
+      "HP 730 Vermelho Cromático"
+    ],
+    "cabeca_impressao": "HP 730 (6 cores)",
+    "data_lancamento": "2018",
+    "link": "https://www.hp.com/us-en/large-format-printers/designjet-t1700.html"
+  },
+  {
+    "nome": "Epson SureColor P20000",
+    "funcionalidade": "Impressora de produção fotográfica de altíssima velocidade, 64 polegadas, utilizando 10 cores e cabeças PrecisionCore de alto desempenho.",
+    "cartuchos_compativeis": [
+      "T824100",
+      "T824500",
+      "T824800",
+      "T824900"
+    ],
+    "cabeca_impressao": "PrecisionCore MicroTFP",
+    "data_lancamento": "2016",
+    "link": "https://epson.com/surecolor-p20000"
+  },
+  {
+    "nome": "Mutoh ValueJet 1624X",
+    "funcionalidade": "Impressora Eco-solvente de 64 polegadas, focada em sinalização e gráficos de veículos, conhecida por sua tecnologia i2 (Intelligent Interweaving).",
+    "cartuchos_compativeis": [
+      "Eco-Ultra Ciano",
+      "Eco-Ultra Magenta",
+      "Eco-Ultra Amarelo",
+      "Eco-Ultra Preto"
+    ],
+    "cabeca_impressao": "Drop-on-Demand Piezo",
+    "data_lancamento": "2015",
+    "link": "https://www.mutoh.com/product/valuejet-1624x/"
+  },
+  {
+    "nome": "Canon imagePROGRAF TM-5200",
+    "funcionalidade": "Plotter de 24 polegadas, ideal para ambientes de escritório que exigem baixo ruído, para impressões de CAD e pôsteres de qualidade.",
+    "cartuchos_compativeis": [
+      "PFI-120 MBK",
+      "PFI-120 C",
+      "PFI-320 M",
+      "PFI-320 Y"
+    ],
+    "cabeca_impressao": "PF-06",
+    "data_lancamento": "2019",
+    "link": "https://www.usa.canon.com/imageprograf/tm-5200"
+  },
+  {
+    "nome": "HP DesignJet Z6810 Production 60-in",
+    "funcionalidade": "Impressora de produção de alto volume para gráficos e fotos de 60 polegadas, que inclui um espectrofotômetro embutido.",
+    "cartuchos_compativeis": [
+      "HP 771 Magenta",
+      "HP 771 Cinza Claro",
+      "HP 771 Vermelho Cromático",
+      "HP 771 Otimizador de Brilho"
+    ],
+    "cabeca_impressao": "HP 771 (8 cabeças)",
+    "data_lancamento": "2016",
+    "link": "https://www.hp.com/us-en/large-format-printers/designjet-z6810.html"
+  },
+  {
+    "nome": "Epson SureColor S40600",
+    "funcionalidade": "Plotter de sinalização Eco-solvente de 64 polegadas, 4 cores (CMYK), focada em alta produtividade e baixo consumo de energia.",
+    "cartuchos_compativeis": [
+      "UltraChrome GS3 Ciano",
+      "UltraChrome GS3 Magenta",
+      "UltraChrome GS3 Amarelo",
+      "UltraChrome GS3 Preto"
+    ],
+    "cabeca_impressao": "PrecisionCore TFP",
+    "data_lancamento": "2016",
+    "link": "https://epson.com/surecolor-s40600"
+  },
+  {
+    "nome": "Roland DG VersaSTUDIO BN-20",
+    "funcionalidade": "Impressora/Cortadora de mesa compacta (20 polegadas), ideal para adesivos, rótulos e vestuário personalizado, utiliza tintas Eco-solvente.",
+    "cartuchos_compativeis": [
+      "ECO-SOL MAX 2 Ciano",
+      "ECO-SOL MAX 2 Preto",
+      "ECO-SOL MAX 2 Metálico",
+      "ECO-SOL MAX 2 Branco"
+    ],
+    "cabeca_impressao": "Piezo Integrada",
+    "data_lancamento": "2012",
+    "link": "https://www.rolanddg.com/en/products/printers/versastudio-bn-20"
+  },
+  {
+    "nome": "Mimaki UCJV300-160",
+    "funcionalidade": "Impressora e cortadora integrada UV-LED de 64 polegadas. Capaz de imprimir em múltiplas camadas (Day/Night printing) e curar instantaneamente.",
+    "cartuchos_compativeis": [
+      "LUS-170 CMYK",
+      "LUS-170 Branco",
+      "LUS-170 Verniz",
+      "LUS-120 Preto"
+    ],
+    "cabeca_impressao": "Integrada (Ricoh Gen 5)",
+    "data_lancamento": "2017",
+    "link": "https://www.mimaki.com/product/inkjet/print-cut/ucjv300-series/"
+  },
+  {
+    "nome": "Canon imagePROGRAF GP-4000",
+    "funcionalidade": "Plotter de pôsteres e sinalização vibrante de 44 polegadas, 10 cores, incluindo tinta Rosa Neón para efeitos fluorescentes exclusivos.",
+    "cartuchos_compativeis": [
+      "PFI-1010 C",
+      "PFI-3010 M",
+      "PFI-7010 BK",
+      "PFI-7010 Neon Pink"
+    ],
+    "cabeca_impressao": "PF-10",
+    "data_lancamento": "2021",
+    "link": "https://www.usa.canon.com/imageprograf/gp-4000"
+  },
+  {
+    "nome": "HP Latex 700",
+    "funcionalidade": "Impressora Latex de 64 polegadas com tintas à base de água de sétima geração. Ideal para sinalização, vinil e têxteis, com foco em sustentabilidade.",
+    "cartuchos_compativeis": [
+      "HP 832 Latex Preto",
+      "HP 832 Latex Ciano",
+      "HP 832 Latex Otimizador",
+      "HP 836 Latex Branco"
+    ],
+    "cabeca_impressao": "HP 832 / HP 836",
+    "data_lancamento": "2021",
+    "link": "https://www.hp.com/br/pt/large-format-printers/latex-700.html"
+  },
+  {
+    "nome": "Epson SureColor F9470H",
+    "funcionalidade": "Impressora industrial de sublimação de 64 polegadas, focada em vestuário e sinalização suave, oferece opção de cores fluorescentes (amarelo e rosa).",
+    "cartuchos_compativeis": [
+      "UltraChrome DS Preto HDK",
+      "UltraChrome DS Fluorescente Amarelo",
+      "UltraChrome DS Fluorescente Rosa"
+    ],
+    "cabeca_impressao": "Dual PrecisionCore TFP",
+    "data_lancamento": "2019",
+    "link": "https://epson.com/surecolor-f9470h"
+  },
+  {
+    "nome": "Canon imagePROGRAF PRO-6100",
+    "funcionalidade": "Plotter de 60 polegadas de alta precisão para fotografia e artes gráficas de galeria, 12 cores, incluindo cinzas para transições suaves.",
+    "cartuchos_compativeis": [
+      "PFI-3000 MBK",
+      "PFI-3000 PC",
+      "PFI-7000 PG",
+      "PFI-7000 CO"
+    ],
+    "cabeca_impressao": "PF-10",
+    "data_lancamento": "2020",
+    "link": "https://www.usa.canon.com/imageprograf/pro-6100"
+  },
+  {
+    "nome": "Roland DG SOLJET EJ-640",
+    "funcionalidade": "Impressora Eco-solvente de produção de alta velocidade (até 64 polegadas), projetada para grandes volumes de banners, vinil e gráficos externos.",
+    "cartuchos_compativeis": [
+      "EJ Ink Ciano",
+      "EJ Ink Preto",
+      "EJ Ink Magenta",
+      "EJ Ink Amarelo"
+    ],
+    "cabeca_impressao": "Dual Piezo de Alta Velocidade",
+    "data_lancamento": "2016",
+    "link": "https://www.rolanddg.com/en/products/printers/soljet-ej-640"
+  },
+  {
+    "nome": "HP DesignJet T230 24-in",
+    "funcionalidade": "Plotter ultra compacta de 24 polegadas, ideal para home office e pequenos estúdios de arquitetura, focada em CAD/GIS de baixo volume.",
+    "cartuchos_compativeis": [
+      "HP 712 Preto",
+      "HP 712 Ciano",
+      "HP 712 Magenta",
+      "HP 712 Amarelo"
+    ],
+    "cabeca_impressao": "HP 712 DesignJet Printhead",
+    "data_lancamento": "2021",
+    "link": "https://www.hp.com/br/pt/large-format-printers/designjet-t230.html"
+  },
+  {
+    "nome": "Mimaki JFX200-2513 EX",
+    "funcionalidade": "Impressora plana UV-LED de 2.5m x 1.3m para substratos rígidos (acrílico, metal, madeira), oferecendo alta produtividade e qualidade.",
+    "cartuchos_compativeis": [
+      "LH-100 Ciano",
+      "LUS-120 Branco",
+      "LUS-150 Verniz",
+      "LUS-350 Laranja"
+    ],
+    "cabeca_impressao": "Ricoh Gen 5 (múltiplas)",
+    "data_lancamento": "2019",
+    "link": "https://www.mimaki.com/product/inkjet/flatbed/jfx200-2513-ex/"
+  },
+  {
+    "nome": "HP DesignJet T730",
+    "funcionalidade": "Plotter robusta de 36 polegadas projetada para escritórios e canteiros de obra. Ideal para impressão técnica CAD e GIS.",
+    "cartuchos_compativeis": [
+      "HP 728 Preto Fosco",
+      "HP 728 Ciano",
+      "HP 728 Magenta",
+      "HP 728 Amarelo"
+    ],
+    "cabeca_impressao": "HP 729 DesignJet Printhead Kit",
+    "data_lancamento": "2016",
+    "link": "https://www8.hp.com/br/pt/large-format-printers/designjet-printers/t730.html"
+  },
+  {
+    "nome": "Canon imagePROGRAF PRO-6000",
+    "funcionalidade": "Plotter de produção fotográfica profissional e fine art, utilizando 12 cores de tinta LUCIA PRO, com largura máxima de 60 polegadas.",
+    "cartuchos_compativeis": [
+      "PFI-1100",
+      "PFI-1300",
+      "PFI-1700"
+    ],
+    "cabeca_impressao": "PF-10 (CABEÇOTE DE IMPRESSÃO)",
+    "data_lancamento": "2017",
+    "link": "https://www.usa.canon.com/internet/portal/us/home/products/details/printers/large-format-inkjet/pro-series/imageprograf-pro-6000"
+  },
+  {
+    "nome": "Epson SureColor P5000 Commercial Edition",
+    "funcionalidade": "Impressora fotográfica e de prova de cor de 17 polegadas, utilizando 10 cores UltraChrome HDX, ideal para gráficos de prova e fine art.",
+    "cartuchos_compativeis": [
+      "T327000",
+      "T327100",
+      "T327200",
+      "T327300"
+    ],
+    "cabeca_impressao": "PrecisionCore MicroTFP",
+    "data_lancamento": "2016",
+    "link": "https://epson.com/For-Work/Printers/Large-Format/SureColor-P5000-Commercial-Edition-17-inch-Printer/p/SC-P5000CE"
+  },
+  {
+    "nome": "HP Latex 800 W",
+    "funcionalidade": "Impressora de grande formato de 64 polegadas com tinta HP Látex à base de água e capacidade de tinta branca, voltada para sinalização e decoração.",
+    "cartuchos_compativeis": [
+      "HP 832 Látex Preto",
+      "HP 832 Látex Ciano",
+      "HP 832 Látex Branco",
+      "HP 836 Látex Magenta"
+    ],
+    "cabeca_impressao": "Integrada aos cartuchos de tinta (Cabeças de impressão HP 832/836)",
+    "data_lancamento": "2021",
+    "link": "https://www8.hp.com/br/pt/large-format-printers/latex-printers/800-series.html"
+  },
+  {
+    "nome": "Canon imagePROGRAF TZ-5000",
+    "funcionalidade": "Plotter de altíssima velocidade de 36 polegadas, projetada para CAD/GIS de alto volume e aplicações de engenharia. Utiliza sistema de tinta de 5 cores.",
+    "cartuchos_compativeis": [
+      "PFI-314",
+      "PFI-714"
+    ],
+    "cabeca_impressao": "PF-06 (CABEÇOTE DE IMPRESSÃO)",
+    "data_lancamento": "2020",
+    "link": "https://www.usa.canon.com/internet/portal/us/home/products/details/printers/large-format-inkjet/tz-series/imageprograf-tz-5000"
+  },
+  {
+    "nome": "Mimaki CG-130FXII Plus",
+    "funcionalidade": "Plotter de recorte profissional de 54 polegadas de largura, ideal para corte de vinil, filmes, e criação de adesivos e sinalização.",
+    "cartuchos_compativeis": [
+      "Não se aplica (Plotter de Recorte)"
+    ],
+    "cabeca_impressao": "Lâmina de corte/Ferramenta de vinco",
+    "data_lancamento": "2019",
+    "link": "https://www.mimakiusa.com/products/cutting-plotters/cg-fxii-plus-series/"
+  },
+  {
+    "nome": "Roland DG SOLJET Pro 4 XF-640",
+    "funcionalidade": "Impressora eco-solvente de 64 polegadas focada em produção de alto volume. Usada para banners, sinalização externa e gráficos veiculares.",
+    "cartuchos_compativeis": [
+      "ECO-SOL MAX 2 (CMYK, Lc, Lm)"
+    ],
+    "cabeca_impressao": "Cabeças duplas (Epson DX7 Technology)",
+    "data_lancamento": "2013",
+    "link": "https://www.rolanddga.com/products/printers/soljet-pro-4-xf-640-printer"
+  },
+  {
+    "nome": "HP DesignJet T1600 36-in",
+    "funcionalidade": "Plotter de grupo de trabalho com dupla bobina de 36 polegadas para CAD e GIS. Inclui recursos avançados de segurança e gerenciamento de frota.",
+    "cartuchos_compativeis": [
+      "HP 730 Preto Fosco",
+      "HP 730 Ciano",
+      "HP 730 Amarelo",
+      "HP 730 Cinza"
+    ],
+    "cabeca_impressao": "HP 730 Printhead (Quatro Cores)",
+    "data_lancamento": "2019",
+    "link": "https://www8.hp.com/us/en/large-format-printers/designjet-printers/t1600.html"
+  },
+  {
+    "nome": "Epson SureColor F170",
+    "funcionalidade": "Impressora de sublimação de tinta compacta e de mesa (até 24 polegadas de largura de rolo), ideal para brindes e produtos personalizados.",
+    "cartuchos_compativeis": [
+      "Garrafas de tinta de sublimação (T49M)"
+    ],
+    "cabeca_impressao": "PrecisionCore MicroTFP",
+    "data_lancamento": "2020",
+    "link": "https://epson.com/For-Work/Printers/Large-Format/SureColor-F170-Dye-Sublimation-Printer/p/C11CJ80201"
+  },
+  {
+    "nome": "Canon imagePROGRAF TA-30",
+    "funcionalidade": "Plotter multifuncional silenciosa de 36 polegadas, focada em escritórios e pequenas empresas para impressões CAD e pôsteres de baixo volume.",
+    "cartuchos_compativeis": [
+      "PFI-030 Preto Fosco",
+      "PFI-030 Ciano",
+      "PFI-030 Magenta",
+      "PFI-030 Amarelo"
+    ],
+    "cabeca_impressao": "PF-08 (CABEÇOTE DE IMPRESSÃO)",
+    "data_lancamento": "2019",
+    "link": "https://www.usa.canon.com/internet/portal/us/home/products/details/printers/large-format-inkjet/ta-series/imageprograf-ta-30"
+  },
+  {
+    "nome": "HP DesignJet Z6 Dual Roll 44-in",
+    "funcionalidade": "Impressora gráfica de 44 polegadas com sistema de 6 tintas e duas bobinas para alta eficiência e detalhes de linha precisos (GIS e fotos).",
+    "cartuchos_compativeis": [
+      "HP 746 Photo Black",
+      "HP 746 Ciano",
+      "HP 746 Magenta",
+      "HP 746 Chroma Optimizer"
+    ],
+    "cabeca_impressao": "HP 746 Printhead (3 cabeças, 2 cores cada)",
+    "data_lancamento": "2018",
+    "link": "https://www8.hp.com/us/en/large-format-printers/designjet-printers/z6-z9.html"
+  },
+  {
+    "nome": "Mutoh ValueJet 1938TX",
+    "funcionalidade": "Plotter têxtil de 75 polegadas (1.9m), ideal para impressão direta em tecidos ou via papel de transferência para moda e decoração.",
+    "cartuchos_compativeis": [
+      "Tinta Sublimação Mutoh DS2",
+      "Tinta Pigmentada Têxtil"
+    ],
+    "cabeca_impressao": "Cabeças duplas escalonadas (Drop-on-demand Micro Piezo)",
+    "data_lancamento": "2016",
+    "link": "https://mutoh.com/product/valuejet-1938tx/"
+  },
+  {
+    "nome": "Mimaki TS300P-1800",
+    "funcionalidade": "Impressora de sublimação de alta velocidade de 74 polegadas, focada em papel de transferência para produção industrial de vestuário e sinalização suave.",
+    "cartuchos_compativeis": [
+      "Mimaki Sb411 (CMYK, Lc, Lm, FY, Fp)"
+    ],
+    "cabeca_impressao": "Cabeça de impressão de alta velocidade",
+    "data_lancamento": "2015",
+    "link": "https://www.mimaki.co.jp/en/product/inkjet/jps-roll/ts300p-1800/"
+  },
+  {
+    "nome": "Roland DG TrueVIS AP-640",
+    "funcionalidade": "Impressora de resina de 64 polegadas. Utiliza tintas à base de água para sinalização interna/externa de alta segurança e secagem rápida.",
+    "cartuchos_compativeis": [
+      "TrueVIS AP Resin Ink (CMYK, Lc, Lm, Pr)"
+    ],
+    "cabeca_impressao": "Cabeças de impressão Roland DG FlexFire",
+    "data_lancamento": "2023",
+    "link": "https://www.rolanddga.com/products/printers/truevis-ap-640-resin-printer"
+  },
+  {
+    "nome": "Canon imagePROGRAF TX-3000",
+    "funcionalidade": "Impressora de 36 polegadas versátil para CAD, GIS e pôsteres. Alta produtividade com cartuchos de grande capacidade (5 cores).",
+    "cartuchos_compativeis": [
+      "PFI-110",
+      "PFI-310",
+      "PFI-710"
+    ],
+    "cabeca_impressao": "PF-06 (CABEÇOTE DE IMPRESSÃO)",
+    "data_lancamento": "2017",
+    "link": "https://www.usa.canon.com/internet/portal/us/home/products/details/printers/large-format-inkjet/tx-series/imageprograf-tx-3000"
+  },
+  {
+    "nome": "Epson SureColor P10000",
+    "funcionalidade": "Impressora de produção fotográfica de 44 polegadas. 10 cores UltraChrome PRO para gráficos de varejo, fotografia profissional e fine art.",
+    "cartuchos_compativeis": [
+      "T804100",
+      "T804200",
+      "T804300",
+      "T804400"
+    ],
+    "cabeca_impressao": "PrecisionCore MicroTFP de 10 canais",
+    "data_lancamento": "2016",
+    "link": "https://epson.com/For-Work/Printers/Large-Format/SureColor-P10000-44-inch-Printer/p/SCP10000SE"
+  },
+  {
+    "nome": "HP DesignJet T250 24-in",
+    "funcionalidade": "Plotter CAD de entrada de 24 polegadas. Design compacto e fácil de usar, ideal para arquitetos e engenheiros individuais ou pequenos escritórios.",
+    "cartuchos_compativeis": [
+      "HP 712 Preto",
+      "HP 712 Ciano",
+      "HP 712 Magenta",
+      "HP 712 Amarelo"
+    ],
+    "cabeca_impressao": "HP 712 DesignJet Printhead (Integrada)",
+    "data_lancamento": "2020",
+    "link": "https://www8.hp.com/br/pt/large-format-printers/designjet-printers/t200-series.html"
+  },
+  {
+    "nome": "Canon imagePROGRAF GP-300",
+    "funcionalidade": "Plotter de 36 polegadas com tinta Rosa Fluorescente (Fluorescent Pink), focada em pôsteres de alto impacto e gráficos de varejo (6 cores).",
+    "cartuchos_compativeis": [
+      "PFI-106",
+      "PFI-306"
+    ],
+    "cabeca_impressao": "PF-06 (CABEÇOTE DE IMPRESSÃO)",
+    "data_lancamento": "2021",
+    "link": "https://www.usa.canon.com/internet/portal/us/home/products/details/printers/large-format-inkjet/gp-series/imageprograf-gp-300"
+  },
+  {
+    "nome": "Mimaki UJV55-320",
+    "funcionalidade": "Impressora UV-LED super wide format de 3.2 metros (128 polegadas). Produção de alta velocidade para lonas, backlights e sinalização gigante.",
+    "cartuchos_compativeis": [
+      "LUS-120 UV Ink (CMYK, Lc, Lm)"
+    ],
+    "cabeca_impressao": "Múltiplas cabeças de impressão escalonadas",
+    "data_lancamento": "2016",
+    "link": "https://www.mimakiusa.com/products/printers/ujv55-320/"
+  },
+  {
+    "nome": "Roland DG VersaUV LEC2-300",
+    "funcionalidade": "Plotter/Cortadora UV de 30 polegadas. Permite imprimir diretamente em substratos rígidos e flexíveis, incluindo efeitos de verniz e texturas (embalagens, rótulos).",
+    "cartuchos_compativeis": [
+      "ECO-UV 5 Ink (CMYK, Branco, Verniz)"
+    ],
+    "cabeca_impressao": "Cabeça de impressão Roland DG FlexFire",
+    "data_lancamento": "2020",
+    "link": "https://www.rolanddga.com/products/printers/versauv-lec2-300-30-inch-uv-printer-cutter"
+  },
+  {
+    "nome": "Epson SureColor S60600",
+    "funcionalidade": "Impressora Eco-Solvente de 64 polegadas com sistema de 4 cores duplas para alta velocidade. Ideal para sinalização externa durável e gráficos veiculares.",
+    "cartuchos_compativeis": [
+      "Tinta Epson UltraChrome GS3 (C13T340500)"
+    ],
+    "cabeca_impressao": "PrecisionCore TFP dupla",
+    "data_lancamento": "2016",
+    "link": "https://epson.com/For-Work/Printers/Large-Format/SureColor-S60600-64-inch-Solvent-Printer/p/C11CE39201"
+  },
+  {
+    "nome": "HP Latex 630 W",
+    "funcionalidade": "Plotter Látex de 64 polegadas, focada em acessibilidade para produção de médio volume com capacidade para tinta branca.",
+    "cartuchos_compativeis": [
+      "HP 832 Látex Magenta",
+      "HP 832 Látex Branco",
+      "HP 832 Látex Preto",
+      "HP 832 Optimizer"
+    ],
+    "cabeca_impressao": "Integrada aos cartuchos de tinta (Cabeças de impressão HP 832)",
+    "data_lancamento": "2024",
+    "link": "https://www8.hp.com/us/en/large-format-printers/latex-printers/630-series.html"
+  },
+  {
+    "nome": "Canon imagePROGRAF TC-20",
+    "funcionalidade": "Impressora de mesa (desktop) de 24 polegadas, ideal para home office e pequenos escritórios que necessitam de impressão técnica de baixo volume (4 cores).",
+    "cartuchos_compativeis": [
+      "Garrafas de tinta (GI-26)"
+    ],
+    "cabeca_impressao": "Cabeça de impressão com sistema de tanques recarregáveis",
+    "data_lancamento": "2023",
+    "link": "https://www.usa.canon.com/internet/portal/us/home/products/details/printers/large-format-inkjet/tc-series/imageprograf-tc-20"
+  },
+  {
+    "nome": "Mutoh XpertJet 1640SR Pro",
+    "funcionalidade": "Impressora Eco-Solvente de 64 polegadas. Sucessor da linha ValueJet, oferecendo maior precisão e alta velocidade para sinalização e banners.",
+    "cartuchos_compativeis": [
+      "Mutoh MS31 Eco-Solvent Ink"
+    ],
+    "cabeca_impressao": "Cabeça de impressão de última geração (Desconhecida a família exata, mas é piezo)",
+    "data_lancamento": "2021",
+    "link": "https://mutoh.com/product/xpertjet-1640sr-pro/"
+  },
+  {
+    "nome": "Epson SureColor SC-T5700D",
+    "funcionalidade": "Plotter de produção técnica de 36 polegadas com bobina dupla. Ideal para CAD, GIS, renderizações e gráficos rápidos com tinta pigmentada UltraChrome XD3.",
+    "cartuchos_compativeis": [
+      "T59L (Preto, Ciano, Magenta, Amarelo, Cinza)"
+    ],
+    "cabeca_impressao": "PrecisionCore MicroTFP",
+    "data_lancamento": "2023",
+    "link": "https://epson.com/For-Work/Printers/Large-Format/SureColor-T5700D-Standard-Edition-36-inch-Printer/p/C11CH08201"
+  },
+  {
+    "nome": "HP DesignJet T2600dr PostScript MFP",
+    "funcionalidade": "Plotter multifuncional para CAD/GIS e renderizações. Possui sistema de rolo duplo (dual-roll) e digitalização integrada. Largura máxima de 36 polegadas.",
+    "cartuchos_compativeis": [
+      "HP 730B Magenta",
+      "HP 730B Cyan",
+      "HP 730B Yellow",
+      "HP 730 Matte Black",
+      "HP 730 Grey"
+    ],
+    "cabeca_impressao": "HP 730 Printhead (C/M/Y, G/PK, MBK)",
+    "data_lancamento": "2019",
+    "link": "https://www8.hp.com/br/pt/large-format-printers/designjet/t2600-mfp.html"
+  },
+  {
+    "nome": "Canon imagePROGRAF PRO-6600",
+    "funcionalidade": "Impressora de 60 polegadas para fotografia profissional e prova de cor. Utiliza 12 cores (LUCIA PRO II) para ampla gama de cores e fidelidade de tons.",
+    "cartuchos_compativeis": [
+      "PFI-3100",
+      "PFI-7100"
+    ],
+    "cabeca_impressao": "PF-10 (12 canais, 1.07 polegadas)",
+    "data_lancamento": "2024",
+    "link": "https://global.canon/en/product/g_printer/imageprograf_pro/pro_6600.html"
+  },
+  {
+    "nome": "Epson SureColor P900",
+    "funcionalidade": "Impressora compacta A2+ (17 polegadas) de mesa, voltada para fotógrafos e artistas gráficos. Usa 10 cores UltraChrome PRO10 com modo Carbon Black.",
+    "cartuchos_compativeis": [
+      "T542 Black",
+      "T542 Light Cyan",
+      "T542 Vivid Magenta"
+    ],
+    "cabeca_impressao": "MicroPiezo AMC",
+    "data_lancamento": "2020",
+    "link": "https://epson.com/SureColor-P900"
+  },
+  {
+    "nome": "HP Latex 570",
+    "funcionalidade": "Impressora roll-to-roll de 64 polegadas para sinalização interna e externa. Utiliza tintas látex à base de água, secagem instantânea e alta durabilidade.",
+    "cartuchos_compativeis": [
+      "HP 871 Latex Ink Cartridges"
+    ],
+    "cabeca_impressao": "HP 871 DesignJet Printheads (6 cores)",
+    "data_lancamento": "2017",
+    "link": "https://www.hp.com/us-en/large-format-printers/latex-printers/570.html"
+  },
+  {
+    "nome": "Mimaki JV100-160",
+    "funcionalidade": "Impressora Eco-Solvente de 64 polegadas para produção de sinalização, banners e gráficos veiculares. Oferece alta velocidade e qualidade de imagem.",
+    "cartuchos_compativeis": [
+      "AS5 Ink",
+      "BS4 Ink"
+    ],
+    "cabeca_impressao": "Duas cabeças piezoelétricas staggered",
+    "data_lancamento": "2021",
+    "link": "https://www.mimaki.com/product/inkjet/i-roll-to-roll/jv100-160/"
+  },
+  {
+    "nome": "Canon imagePROGRAF TM-300",
+    "funcionalidade": "Plotter silenciosa de 36 polegadas ideal para escritórios de engenharia (CAD) e GIS. Usa tintas pigmentadas para resistência à água e alta definição de linha.",
+    "cartuchos_compativeis": [
+      "PFI-120 Matte Black",
+      "PFI-120 Cyan",
+      "PFI-320 Black"
+    ],
+    "cabeca_impressao": "PF-06",
+    "data_lancamento": "2018",
+    "link": "https://global.canon/en/product/g_printer/imageprograf_tm/tm_300.html"
+  },
+  {
+    "nome": "Roland DG TrueVIS VG3-540",
+    "funcionalidade": "Impressora/Cortadora de grande formato (54 polegadas) para produção de gráficos de sinalização, adesivos e vestuário. Usa tinta TR2 e oferece flexibilidade de cores.",
+    "cartuchos_compativeis": [
+      "TR2 Ink CMYK",
+      "TR2 Ink Lc Lm Lk Or"
+    ],
+    "cabeca_impressao": "FlexFire (nova geração)",
+    "data_lancamento": "2021",
+    "link": "https://www.rolanddg.com/en/products/print-and-cut/truevis-vg3-series"
+  },
+  {
+    "nome": "Mutoh ValueJet 1638UR",
+    "funcionalidade": "Impressora UV LED Roll-to-Roll de 64 polegadas. Ideal para produção de adesivos texturizados, banners e sinalização com tintas flexíveis UV.",
+    "cartuchos_compativeis": [
+      "UH21 UV Ink",
+      "US11 UV Ink"
+    ],
+    "cabeca_impressao": "Dual Staggered Piezo Drop-on-Demand",
+    "data_lancamento": "2017",
+    "link": "https://www.mutoh.com/product/valuejet-1638ur/"
+  },
+  {
+    "nome": "HP DesignJet T1700",
+    "funcionalidade": "Impressora de 44 polegadas focada em segurança de dados e precisão de cor para CAD e GIS. Usa 6 cores com suporte para arquivos complexos.",
+    "cartuchos_compativeis": [
+      "HP 730 Ink Cartridges (MBK, C, M, Y, PK, G)"
+    ],
+    "cabeca_impressao": "HP 730 Printhead (3 por impressora)",
+    "data_lancamento": "2018",
+    "link": "https://www.hp.com/us-en/large-format-printers/designjet-printers/t1700.html"
+  },
+  {
+    "nome": "Epson SureColor F7200",
+    "funcionalidade": "Impressora de sublimação de tinta de 64 polegadas, desenhada para produção de vestuário e sinalização têxtil. Utiliza o sistema de tinta bulk (bolsas).",
+    "cartuchos_compativeis": [
+      "UltraChrome DS Ink Bags (CMYK)"
+    ],
+    "cabeca_impressao": "PrecisionCore TFP",
+    "data_lancamento": "2016",
+    "link": "https://epson.com/For-Work/Printers/Large-Format/SureColor-F7200"
+  },
+  {
+    "nome": "Canon imagePROGRAF TX-2100",
+    "funcionalidade": "Plotter de 24 polegadas com foco em produtividade e manuseio versátil de mídia. Ideal para CAD, GIS e posters com 5 cores pigmentadas.",
+    "cartuchos_compativeis": [
+      "PFI-G50 (Matte Black, Black, Cyan, Magenta, Yellow)"
+    ],
+    "cabeca_impressao": "PF-07",
+    "data_lancamento": "2020",
+    "link": "https://global.canon/en/product/g_printer/imageprograf_tx/tx_2100.html"
+  },
+  {
+    "nome": "HP DesignJet Z6 Dual Roll 44-in",
+    "funcionalidade": "Plotter de fotografia e gráficos, 44 polegadas. Possui rolo duplo e cortador vertical integrado. Utiliza 6 cores para reproduções detalhadas de mapas e renderizações.",
+    "cartuchos_compativeis": [
+      "HP 746 Ink Cartridges (C, M, Y, PK, G, MBK)"
+    ],
+    "cabeca_impressao": "HP 746 Printhead",
+    "data_lancamento": "2018",
+    "link": "https://www.hp.com/us-en/large-format-printers/designjet-printers/z6-z9.html"
+  },
+  {
+    "nome": "Mimaki UJV100-160",
+    "funcionalidade": "Impressora UV-LED Roll-to-Roll de 64 polegadas, ideal para gráficos de alta qualidade com secagem instantânea e resistência a arranhões.",
+    "cartuchos_compativeis": [
+      "LUS-190 UV Ink",
+      "LUS-210 UV Ink"
+    ],
+    "cabeca_impressao": "Dual Piezo Printheads",
+    "data_lancamento": "2020",
+    "link": "https://www.mimaki.com/product/inkjet/i-roll-to-roll/ujv100-160/"
+  },
+  {
+    "nome": "Epson SureColor P7570",
+    "funcionalidade": "Plotter de 24 polegadas para artes gráficas e prova de cor. Sistema de 12 cores UltraChrome PRO12 com Tintas Laranja e Verde.",
+    "cartuchos_compativeis": [
+      "T44R-T44W (12 cores)"
+    ],
+    "cabeca_impressao": "PrecisionCore MicroTFP",
+    "data_lancamento": "2019",
+    "link": "https://epson.com/SureColor-P7570"
+  },
+  {
+    "nome": "Canon imagePROGRAF TM-5300",
+    "funcionalidade": "Multifuncional de 36 polegadas com scanner integrado. Combinação de velocidade e qualidade de linha para AEC, CAD e pôsteres.",
+    "cartuchos_compativeis": [
+      "PFI-306 (5 cores)"
+    ],
+    "cabeca_impressao": "PF-06",
+    "data_lancamento": "2019",
+    "link": "https://global.canon/en/product/g_printer/imageprograf_tm/tm_5300.html"
+  },
+  {
+    "nome": "HP DesignJet T830 36-in",
+    "funcionalidade": "Plotter MFP (impressora, scanner, copiadora) robusta e compacta de 36 polegadas, ideal para canteiros de obras ou pequenos escritórios.",
+    "cartuchos_compativeis": [
+      "HP 728 Ink Cartridges (CMYK)"
+    ],
+    "cabeca_impressao": "HP 729 DesignJet Printhead",
+    "data_lancamento": "2016",
+    "link": "https://www.hp.com/us-en/large-format-printers/designjet-printers/t830.html"
+  },
+  {
+    "nome": "Roland DG VersaUV LEC-540",
+    "funcionalidade": "Impressora/Cortadora plana UV-LED de 54 polegadas para prototipagem, embalagens flexíveis, etiquetas e impressões texturizadas.",
+    "cartuchos_compativeis": [
+      "ECO-UV S Ink (CMYK, Branco, Verniz)"
+    ],
+    "cabeca_impressao": "Cabeça piezoelétrica industrial",
+    "data_lancamento": "2011",
+    "link": "https://www.rolanddg.com/en/products/printers/versaUV-lec-series-printer-cutters"
+  },
+  {
+    "nome": "Mutoh XpertJet 1642WR Pro",
+    "funcionalidade": "Impressora de sublimação de alta velocidade de 64 polegadas, desenvolvida para produção de moda e decoração têxtil.",
+    "cartuchos_compativeis": [
+      "MS41 Dye Sub Ink"
+    ],
+    "cabeca_impressao": "Dual Staggered Piezo",
+    "data_lancamento": "2021",
+    "link": "https://www.mutoh.com/product/xpertjet-1642wr-pro/"
+  },
+  {
+    "nome": "Epson SureColor S80600",
+    "funcionalidade": "Impressora de sinalização de 64 polegadas com 9 ou 10 cores (incluindo opções de Branco e Metálico). Oferece ampla gama de cores e fidelidade.",
+    "cartuchos_compativeis": [
+      "UltraChrome GS3 Ink (C, M, Y, K, Lc, Lm, Lk, Or, R + W/Metallic)"
+    ],
+    "cabeca_impressao": "PrecisionCore TFP",
+    "data_lancamento": "2016",
+    "link": "https://epson.com/SureColor-S80600"
+  },
+  {
+    "nome": "HP Latex 1500",
+    "funcionalidade": "Impressora industrial de super grande formato (126 polegadas) para produção de banners, POP e materiais de exibição em alto volume.",
+    "cartuchos_compativeis": [
+      "HP 881 Latex Ink Cartridges (CMYK Lc Lm Optimizer)"
+    ],
+    "cabeca_impressao": "HP 881 DesignJet Printheads",
+    "data_lancamento": "2016",
+    "link": "https://www.hp.com/us-en/large-format-printers/latex-printers/1500.html"
+  },
+  {
+    "nome": "Canon imagePROGRAF GP-3000",
+    "funcionalidade": "Plotter de 36 polegadas para pôsteres e sinalização com cores vibrantes. Inclui a tinta 'Rosa Fluorescente' para efeitos de neon.",
+    "cartuchos_compativeis": [
+      "PFI-307 (10 cores + FL Pink)"
+    ],
+    "cabeca_impressao": "PF-10",
+    "data_lancamento": "2022",
+    "link": "https://global.canon/en/product/g_printer/imageprograf_gp/gp_3000.html"
+  },
+  {
+    "nome": "Mimaki TS55-1800",
+    "funcionalidade": "Impressora de sublimação de alta produtividade de 76 polegadas. Destinada a fábricas têxteis, oferecendo baixo custo de operação e alta velocidade contínua.",
+    "cartuchos_compativeis": [
+      "Sb610 Sublimation Ink",
+      "Sb510 Sublimation Ink"
+    ],
+    "cabeca_impressao": "Piezoelétrica",
+    "data_lancamento": "2019",
+    "link": "https://www.mimaki.com/product/inkjet/i-roll-to-roll/ts55-1800/"
+  },
+  {
+    "nome": "HP DesignJet T650 24-in",
+    "funcionalidade": "Plotter compacta de 24 polegadas, ideal para CAD/AEC em escritórios pequenos. Possui alimentador de folhas A3/A4 integrado e suporte.",
+    "cartuchos_compativeis": [
+      "HP 712 Ink Cartridges (CMYK)"
+    ],
+    "cabeca_impressao": "HP 713 DesignJet Printhead",
+    "data_lancamento": "2020",
+    "link": "https://www.hp.com/us-en/large-format-printers/designjet-printers/t650.html"
+  },
+  {
+    "nome": "Roland DG VersaEXPRESS RF-640",
+    "funcionalidade": "Impressora Eco-Solvente de 64 polegadas de alto desempenho e velocidade, focada em banners, sinalização, posters e adesivos.",
+    "cartuchos_compativeis": [
+      "ECO-SOL MAX 2 Ink"
+    ],
+    "cabeca_impressao": "Gold-Plated Print Head",
+    "data_lancamento": "2014",
+    "link": "https://www.rolanddg.com/en/products/printers/versaexpress-rf-640"
+  },
+  {
+    "nome": "Epson SureColor F10070",
+    "funcionalidade": "Plotter de sublimação industrial de 76 polegadas, projetada para produção de volume massivo de têxteis. Usa sistema de tinta a granel de alta capacidade.",
+    "cartuchos_compativeis": [
+      "T48U (UltraChrome DS Ink Bags)"
+    ],
+    "cabeca_impressao": "4 x PrecisionCore",
+    "data_lancamento": "2021",
+    "link": "https://epson.com/SureColor-F10070"
+  }
+]
